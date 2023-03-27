@@ -8,6 +8,7 @@ public class FruitMain {
 	public static void main(String[] args) {
 		
 		// 객체 한개 생성
+		// 객체 한개를 생성합니다.(깃허브에서 테스트로 소스코드 수정함)
 		Fruit peach = new Fruit();
 		peach.setName("복숭아");
 		peach.setPrice(6500);
